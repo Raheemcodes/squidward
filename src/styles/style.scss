@@ -39,16 +39,15 @@ body {
   @include centered();
   padding: 0;
   margin: 0;
-  width: 100%;
-  height: 100%;
 }
 
 .squidward-container {
+  position: relative;
   width: toRem(375);
   background-size: cover;
   height: toRem(600);
   background-position: 45% top;
-  overflow: hidden;
+  overflow-y: hidden;
 
 
   .squid-head {
