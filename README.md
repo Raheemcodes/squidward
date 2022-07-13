@@ -1,6 +1,6 @@
 # SQUIDWARD
 
-This is the character from my favourite cartoon show spongebob - https://dream-site-407d0.web.app/
+This is the character from my favourite cartoon show spongebob - https://codepen.io/raheemscorp/pen/LYdRwQj
 
 ## Features
 
