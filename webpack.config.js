@@ -13,7 +13,7 @@ module.exports = {
   },
   devServer: {
     port: 5000,
-    host: '192.168.8.102',
+    host: '192.168.8.101',
     watchFiles: ['src/**/*'],
   },
   module: {
