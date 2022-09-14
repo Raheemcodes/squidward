@@ -1,1 +1,1 @@
-const me = 'jdjdjdj';
+'Nothing here :('
